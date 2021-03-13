@@ -1,0 +1,27 @@
+{
+  "name": "frenlybot",
+  "version": "1.0.0",
+  "description": "A discord bot for friend making :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlambert43/frenlyBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "friend",
+    "icebreak",
+    "activities"
+  ],
+  "author": "ben eren julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benlambert43/frenlyBot/issues"
+  },
+  "homepage": "https://github.com/benlambert43/frenlyBot#readme"
+}
