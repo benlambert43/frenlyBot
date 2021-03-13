@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/benlambert43/frenlyBot/issues"
   },
-  "homepage": "https://github.com/benlambert43/frenlyBot#readme"
+  "homepage": "https://github.com/benlambert43/frenlyBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
 }
