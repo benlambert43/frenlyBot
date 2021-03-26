@@ -1,4 +1,4 @@
-[banner](/banner.png)
+![Banner](https://github.com/benlambert43/frenlyBot/blob/main/banner.png)
 
 # frenlyBot
 
